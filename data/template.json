@@ -1,0 +1,54 @@
+{
+	"personal_details" : {
+		"name" : ,
+		"gender" : ,
+		"dob": ,
+		"age" :
+		//profile picture
+	},
+
+
+	"contact_details" : {
+		"mailid" : [],
+		"phoneno" : [],
+		
+		"address" : {
+			"flatno" : ,
+			"city" : ,
+			"state" : ,
+			"country" : ,
+			"zip" : 
+		},
+		
+		"website" : [],
+		"sociallinks" : [],
+	},
+
+
+	"extradetails" : {
+		
+		"education" : {
+			"college" : [],
+			"highschool" : []
+		},
+
+		"languages" : [],
+		"religion" : []
+	},
+
+
+	"interests" : {
+
+		"movies" : [
+
+		],
+
+		"music" : [
+
+		],
+
+		"food" : [
+
+		]
+	}
+}

@@ -1,0 +1,69 @@
+{
+			"outletname" : "Nainital Momos",
+			"cuisine" : "Chinese",
+			"foodtype" : ["Desserts", "Starters", "Snacks"],
+			"zomatolink" : "https://www.zomato.com/lucknow/nainital-momos-gomti-nagar"
+		}
+
+{
+			"outletname" : "Dominos",
+			"cuisine" : "Italian",
+			"foodtype" : ["Desserts", "Starters", "Snacks"],
+			"zomatolink" : "https://www.zomato.com/lucknow/dominos-pizza-gomti-nagar"
+		}
+
+{
+			"outletname" : "Choco Express",
+			"cuisine" : "Italian",
+			"foodtype" : ["Desserts", "Snacks"],
+			"zomatolink" : "https://www.zomato.com/lucknow/180-chocoxpress-gomti-nagar"
+		}
+
+{
+			"outletname" : "Subway",
+			"cuisine" : "Asian",
+			"foodtype" : ["Starters", "Snacks"],
+			"zomatolink" : "https://www.zomato.com/lucknow/subway-1-hazratganj"
+		}
+
+{
+			"outletname" : "Mocha",
+			"cuisine" : "Indian",
+			"foodtype" : ["Desserts", "Starters", "Snacks", "Beverages"],
+			"zomatolink" : "https://www.zomato.com/lucknow/mocha-gomti-nagar"
+		}
+
+{
+			"outletname" : "Aryan Family's Delight",
+			"cuisine" : "Multi-Cuisine",
+			"foodtype" : ["Desserts", "Starters", "Snacks", "Meals", "Beverages"],
+			"zomatolink" : "https://www.zomato.com/lucknow/aryan-familys-delight-1-gomti-nagar"
+		}
+
+{
+			"outletname" : "The Urban Terrace",
+			"cuisine" : "Multi-Cuisine",
+			"foodtype" : ["Desserts", "Starters", "Snacks", "Meals", "Beverages"],
+			"zomatolink" : "https://www.zomato.com/lucknow/the-urban-terrace-gomti-nagar"
+		}
+
+{
+			"outletname" : "The Mughal's Dastarkhwan",
+			"cuisine" : "Mughlai",
+			"foodtype" : ["Desserts", "Starters", "Meals"],
+			"zomatolink" : "https://www.zomato.com/lucknow/the-mughals-dastarkhwan-gomti-nagar"
+		}
+
+{
+			"outletname" : "Vintage Machine",
+			"cuisine" : "Cafe Bar",
+			"foodtype" : ["Desserts", "Starters", "Snacks", "Beverages"],
+			"zomatolink" : "https://www.zomato.com/lucknow/vintage-machine-gomti-nagar"
+		}
+
+{
+			"outletname" : "Green Restaurant",
+			"cuisine" : "Multi-Cuisine",
+			"foodtype" : ["Desserts", "Starters", "Snacks", "Meals", "Beverages"],
+			"zomatolink" : "https://www.zomato.com/lucknow/green-restaurant-gomti-nagar"
+		}

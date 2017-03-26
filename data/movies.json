@@ -1,0 +1,90 @@
+{
+			"name" : "Inception",
+			"genre" : "Sci-Fi",
+			"language" : "English",
+			"rating" : 8.8,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt1375666/"
+		}
+
+{
+			"name" : "The Prestige",
+			"genre" : "Mystery",
+			"language" : "English",
+			"rating" : 8.5,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt0482571/"
+		}
+
+{
+			"name" : "Now you see me",
+			"genre" : "Mystery",
+			"language" : "English",
+			"rating" : 7.5,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt1670345/"
+		}
+
+{
+			"name" : "The Dark Kight",
+			"genre" : "Action",
+			"language" : "English",
+			"rating" : 9.0,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt0468569/"
+		}
+
+{
+			"name" : "Logan",
+			"genre" : "Action",
+			"language" : "English",
+			"rating" : 8.5,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt3315342/"
+		}
+
+{
+			"name" : "Assassin's Creed",
+			"genre" : "Sci-Fi",
+			"language" : "English",
+			"rating" : 6.1,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt2094766/"
+		}
+
+{
+			"name" : "The Godfather",
+			"genre" : "Crime",
+			"language" : "English",
+			"rating" : 9.2,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt0068646/"
+		}
+
+{
+			"name" : "The Shawshank Redemption",
+			"genre" : "Drama",
+			"language" : "English",
+			"rating" : 9.2,
+			"personalreview" : ,
+			"imdblink" : "www.imdb.com/title/tt0111161/"
+		}
+
+{
+			"name" : "Harry Potter and the Deathly Hollows",
+			"genre" : "Fantasy",
+			"language" : "English",
+			"rating" : 8.5,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt1201607/"
+		}
+
+{
+			"name" : "Kung Fu Panda",
+			"genre" : "Animation",
+			"language" : "English",
+			"rating" : 7.6,
+			"personalreview" : ,
+			"imdblink" : "http://www.imdb.com/title/tt0441773/"
+		}
+
